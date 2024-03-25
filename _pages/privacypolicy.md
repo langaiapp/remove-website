@@ -1,44 +1,47 @@
----
-layout: page
-title: Privacy Policy
-include_in_header: false
----
+#### ABOUT US
 
-# Privacy Policy
+Romve is committed to protecting the privacy of our users ("Users" or "You"). This Privacy Policy ("this Policy") is designed to explain to you how we collect, store, use, manage and protect your user information (including personal information) when using our website and our services.Please note that the scope of this policy is limited to the user information (including personal information) that you submit to Romve or that Romve collects when you use our website and our services; "personal information" in this policy refers to the information itself or the information that Romve can collect. Other information about individuals accessed Data that could identify a specific individual after contact, including your name, address, phone number and email address.By using our website and our services, you agree to this policy and to the collection, processing, disclosure and sharing of your user information (including your personal information) in the manner set out in this policy. If you do not agree with any of the terms of this policy and future revisions, please do not use our website and our services.
 
-Our Commitment to Your Privacy
+#### WHAT DATA WE COLLECT
 
-We are committed to protecting your privacy and the security of your personal information. This Privacy Policy outlines how we collect, use, and disclose information when you use the RIZZ app ("the App").
+In order to provide you with our website and our services, we will collect your personal information and user information in accordance with this policy to the extent permitted by law and only when you browse the website, use certain features or services. If you do not provide this information, we may not be able to provide you with our products or services.Information you provide us.
 
-#### Information We Collect:
-When you use RIZZ AI, we may collect the following types of information:
-User-Provided Information: We may collect information that you voluntarily provide to us, such as screenshots of conversations and related text data that you upload to the app.
-Device Information: We may collect information about your mobile device, including the model, operating system version, and other technical details.
-Usage Information: We may collect information about how you use the app, including how frequently you use it and the types of content you access.
-Analytics Information: We may use third-party analytics tools to collect information about how users interact with the app. This information may include which features are used most frequently, the length of time spent in the app, and other similar information.
+* We may collect your device identifier for analytics purpose.
+* We may record and collect your interractions within our products.
 
-#### How We Use Information:
-We may use the information we collect to:
-Provide personalized responses for the conversations you upload
-Improve the app's performance and user experience
-Analyze app usage and user behavior to improve the app and develop new features
-Send notifications and updates about the app
+#### WHICH DATA IS BEING SHARED WITH THIRD PARTY
 
-#### Sharing of Information:
-We may share the information we collect with third-party service providers who perform services on our behalf, such as data analysis and technical support. These service providers may have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-We may also share information with law enforcement or other third parties if required by law or if we believe that such disclosure is necessary to protect our rights, the safety of our users, or the public.
+* Only your devices id and interractions are shared with third party analytic service (Google Analytics).
+* We do not share any of your personal data (such as email address) to any third party.
 
-#### Security:
-We take reasonable measures to protect the information we collect from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. We use encryption and secure servers to store and transmit data, and we restrict access to personal information to only those employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services.
-However, no security system is completely foolproof, and we cannot guarantee the security of the information we collect.
+#### How we use information
 
-#### Children's Privacy:
-The app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If we become aware that we have collected personal information from a child under the age of 13, we will take steps to delete that information as soon as possible.
-#### Changes to This Policy:
-We may update this privacy policy from time to time. If we make significant changes, we will notify you through the app or by other means. Your continued use of the app after we make changes to this policy will constitute your acceptance of those changes.
+The purpose of collecting user information and personal information is to provide you with our products and services and to ensure that we comply with applicable laws. Based on the "What Information We Collect" section, we use your user information and personal information for the following purposes:
 
+(1) Products and services. To provide, process, maintain, improve, develop our website and/or our services to you, including customer support, and other services provided through the device or website.
 
-#### Our contact information:
-**GENERATE AI, LLC**
-**8 THE GREEN, STE A, DOVER, DELAWARE,** [**United States**]
-Contact email: support@generateaiapp.com
+(2) Statistical analysis. To analyze and develop statistical information related to the use of our products and our services to better improve our products and services.
+
+(3) Improve user experience. Certain opt-in features, such as the User Experience Program, allow Romve to analyze data on how users use our products and services in order to improve the user experience.
+
+(4) Collect user feedback. Your feedback is invaluable in helping Romve improve the service. In order to track your feedback, Romve may use the personal information you provide to contact you and keep records.
+
+#### DATA WE DOT COLLECT OR SHARE
+
+* Your photos: Your photo may be upload to our server to process, but we do not store them longer than the time it needed to process. The photo will be deleted immediately after processing and we do not collect or share them with any third parties.
+
+* Face data: We do not retain your face data.
+
+* We do not collect your email when you contact us.
+
+* We do not collect any other personal data from you in all of our products.
+
+  Updates to this policyYou agree that we will update this policy in accordance with laws and regulations or Romve's business decisions, and you are willing to be bound by the revised policy. If there are major changes to this policy, we will make announcements on the website or push information when necessary.
+
+#### CONTACT INFORMATION
+
+***\*TRANSLATE AI, LLC\****
+
+***\*8 THE GREEN, STE A, DOVER, DELAWARE,\**** [***\*United States\****]
+
+Contact email: support@translateaillc.com
