@@ -1,3 +1,11 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
+# Privacy Policy
+
 #### ABOUT US
 
 Romve is committed to protecting the privacy of our users ("Users" or "You"). This Privacy Policy ("this Policy") is designed to explain to you how we collect, store, use, manage and protect your user information (including personal information) when using our website and our services.Please note that the scope of this policy is limited to the user information (including personal information) that you submit to Romve or that Romve collects when you use our website and our services; "personal information" in this policy refers to the information itself or the information that Romve can collect. Other information about individuals accessed Data that could identify a specific individual after contact, including your name, address, phone number and email address.By using our website and our services, you agree to this policy and to the collection, processing, disclosure and sharing of your user information (including your personal information) in the manner set out in this policy. If you do not agree with any of the terms of this policy and future revisions, please do not use our website and our services.
@@ -40,8 +48,8 @@ The purpose of collecting user information and personal information is to provid
 
 #### CONTACT INFORMATION
 
-***\*TRANSLATE AI, LLC\****
+***\*GENERATE AI, LLC\****
 
 ***\*8 THE GREEN, STE A, DOVER, DELAWARE,\**** [***\*United States\****]
 
-Contact email: support@translateaillc.com
+Contact email: support@generateaiapp.com
