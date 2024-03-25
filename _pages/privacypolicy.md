@@ -48,8 +48,8 @@ The purpose of collecting user information and personal information is to provid
 
 #### CONTACT INFORMATION
 
-***\*GENERATE AI, LLC\****
+***\*Translateai, LLC\****
 
 ***\*8 THE GREEN, STE A, DOVER, DELAWARE,\**** [***\*United States\****]
 
-Contact email: support@generateaiapp.com
+Contact email: support@translateaillc.com
